@@ -2,6 +2,8 @@
 
 An example implementation of a "card flip" effect using React components.
 
+![Screenshot](screenshot.png)
+
 ## Why?
 
 The idea was to have "cards" of content in an array or grid which could "flip"
