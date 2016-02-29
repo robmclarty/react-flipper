@@ -1,0 +1,8 @@
+.sass-cache
+npm-debug.log
+/*.env
+.DS_Store
+node_modules
+/public/javascripts/*
+/public/stylesheets/*
+!.keep
